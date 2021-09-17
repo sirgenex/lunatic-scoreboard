@@ -1,0 +1,5 @@
+name: lunatic-scoreboard
+version: 1.0
+author: SrGeneX
+main: br.com.lunaticmc.scoreboard.Scoreboard
+depend: [PlaceholderAPI, lunatic-economy, lunatic-blocks, lunatic-rankup]

@@ -1,0 +1,23 @@
+worlds:
+  world:
+    name: "&6&lRANKUP FAROESTE"
+    scoreboard:
+      spacer1: true
+      world:
+        text: "&7Mundo: world"
+      player:
+        text: "&7Jogador: {player}"
+      spacer2: true
+      ip:
+        text: "&6jogar.lunaticmc.com.br"
+  _other:
+    name: "&6&lRANKUP FAROESTE"
+    scoreboard:
+      spacer1: true
+      world:
+        text: "&7Mundo: outro"
+      player:
+        text: "&7Jogador: {player}"
+      spacer2: true
+      ip:
+        text: "&6jogar.lunaticmc.com.br"
