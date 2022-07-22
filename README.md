@@ -1,1 +1,0 @@
-For any potential customers, please do not take this project as a basis for evaluation, it had some code errors because it was in a testing phase and not fully completed. The biggest mistake was that I didn't do a task to update the scoreboard during the events from my own plugins (since it was still in a testing phase).
